@@ -4,12 +4,15 @@
 ### 规范
 
 1. [Git commit message](./git-commit-message.md)
-
 2. [Git change log](./git-change-log.md)
-
 3. [ ] License
-
 4. [ ] CONTRIBUTING
+
+
+### .gitignore
+
+- [通用](./gitignore/common.gitignore)
+- [Java](./gitignore/java.gitignore)
 
 
 ### 其他
